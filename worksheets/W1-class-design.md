@@ -12,9 +12,9 @@
 
 - **ชื่อทีม:** KatoeySK
 - **สมาชิก:**
-  - Hacker: _________________
-  - Hipster: _________________
-  - Hustler: _________________
+  - Hacker: อัฑฒกร อาสนเสวตร์
+  - Hipster: พชรรักษ์ รอดเกิด
+  - Hustler: กัลยกร ฤทธิ์ปล้อง
 - **Track ที่เลือก:** ☐ A (Motion)  ✓ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
 - **ระดับความท้าทาย:** ✓ Basic  ☐ Intermediate  ☐ Advanced
 
