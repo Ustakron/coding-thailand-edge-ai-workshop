@@ -10,13 +10,13 @@
 
 ## ข้อมูลทีม
 
-- **ชื่อทีม:** _________________
+- **ชื่อทีม:** KatoeySK
 - **สมาชิก:**
   - Hacker: _________________
   - Hipster: _________________
   - Hustler: _________________
-- **Track ที่เลือก:** ☐ A (Motion)  ☐ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
-- **ระดับความท้าทาย:** ☐ Basic  ☐ Intermediate  ☐ Advanced
+- **Track ที่เลือก:** ☐ A (Motion)  ✓ B (Vision)  ☐ C (Environment)  ☐ D (Audio)
+- **ระดับความท้าทาย:** ✓ Basic  ☐ Intermediate  ☐ Advanced
 
 ---
 
